@@ -1,0 +1,14 @@
+.team-heading {
+    background-color: rgb(66, 1, 104);
+    color: cornsilk;
+}
+.card {
+    margin: 5px;
+    border-radius: 15px;
+  
+    
+}
+
+.my-container{
+    width: auto;
+}
