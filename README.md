@@ -2,6 +2,8 @@
 # Employee Information Manager     [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 This application uses inquirer to prompt the user for information on different employees through the command line. It then takes this information and creates an HTML page that displays your employees and their information. This app uses HTML, CSS, JavaScript, Node.js, Inquirer npm, Jest npm and ES6.
+
+![Testing center locator Demo](image/demo.gif)
     
 ## Table of Contents
     
