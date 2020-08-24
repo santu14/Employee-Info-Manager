@@ -22,7 +22,7 @@ This application does not Require installation but does rely on Node.js to be in
  - Once finished your HTML page will populate in the output folder
 
 # Contributing
-There are no quidelines for contribution. Feel free to expand or refactor this application as you please.
+There are no guidelines for contribution. Feel free to expand or refactor this application as you please.
 # Test
 This application uses jest for testing. type npm run test to start testing.
 # Questions
